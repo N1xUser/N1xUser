@@ -2,7 +2,7 @@
 
 <p align="center">
 I’m Vicente, a Computer Science Engineering student 🎓 at 
-<a href="https://www.uahurtado.cl/">Alberto Hurtado University</a>.
+<a href="[https://www.uahurtado.cl/](https://ingenieria.uahurtado.cl/)">Alberto Hurtado University</a>.
 </p>
 
 <p>
@@ -90,4 +90,4 @@ I enjoy building my own tools and maintaining full control over my code and work
 
 <hr>
 
-<p align="center"><i>Last edited: 27/12/2025</i></p>
+<p align="center"><i>Last edited: 9/9/2026</i></p>
