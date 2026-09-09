@@ -2,7 +2,7 @@
 
 <p align="center">
 I’m Vicente, a Computer Science Engineering student 🎓 at 
-<a href="[https://www.uahurtado.cl/](https://ingenieria.uahurtado.cl/)">Alberto Hurtado University</a>.
+<a href="https://ingenieria.uahurtado.cl">Alberto Hurtado University</a>.
 </p>
 
 <p>
