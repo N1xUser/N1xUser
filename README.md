@@ -37,8 +37,8 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff"/>
 </p>
 
-<details open>
-  <summary><b>📫 Professional Experience & Research</b></summary>
+<details>
+  <summary><b>Professional Experience & Research</b></summary>
   <br>
 
   <!-- GSI Project -->
@@ -110,7 +110,7 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N1xUser" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=N1xUser&label=Profile%20views&color=blue&style=flat-square" alt="Profile views"/>
   <a href="https://github.com/N1xUser/">
     <img src="https://img.shields.io/github/followers/N1xUser?style=flat-square&label=GitHub%20Followers"/>
   </a>
