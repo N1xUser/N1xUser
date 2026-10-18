@@ -110,7 +110,7 @@ I enjoy building custom tooling from start to finish, architecting end-to-end da
 </details>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FN1xUser&label=Profile%20views&countColor=%23007ec6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=N1xUser" alt="Profile views"/>
   <a href="https://github.com/N1xUser/">
     <img src="https://img.shields.io/github/followers/N1xUser?style=flat-square&label=GitHub%20Followers"/>
   </a>
