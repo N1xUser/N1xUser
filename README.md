@@ -6,19 +6,19 @@ I’m Vicente, a Computer Science Engineering student at
 </p>
 
 <p>
-I’m passionate about continuous learning, especially in areas such as machine learning, large language models (Fine-tuning, RAG, and Agentic workflows), kernel development (Kernel-Mode Driver Framework on Windows 10/11), and low-level memory analysis (CR3 shuffling on Windows 10).
+I develop software and integrate artificial intelligence to turn concrete data and needs into useful tools, from management platforms to research support systems. I’m passionate about continuous learning, especially in machine learning, large language models (Fine-tuning, RAG, and Agentic workflows), kernel development (Kernel-Mode Driver Framework on Windows 10/11), and low-level memory analysis (CR3 shuffling on Windows 10).
 </p>
 
 <p>
-I also have a growing interest in cybersecurity (including vulnerability research, API pentesting, and token-bypass mechanisms), data extraction pipelines (multimodal OCR and structured ingestion), and systems engineering.
+I also have a growing interest in cybersecurity (including vulnerability research and reporting, API pentesting, and token-bypass mechanisms), data extraction pipelines (multimodal OCR and structured ingestion), and systems engineering. Notably, at the <b>NASA Space Apps Challenge</b>, I participated in the development of <b>Kolossus</b>, an engine to visualize images from the Apollo missions, working with a dataset of approximately 41 TB.
 </p>
 
 <p>
-My primary programming language is Python (building APIs with Flask/FastAPI, AI agent workflows, and data analysis with scikit-learn and pandas). I also work with Rust, C# (WPF/MVVM), TypeScript/JavaScript, and R.
+My primary programming language is Python (building APIs with Flask/FastAPI, AI agent workflows, and data analysis with scikit-learn and pandas). I also work with Rust, C# (WPF/MVVM), TypeScript/JavaScript, and R according to the needs of each project.
 </p>
 
 <p>
-I enjoy building custom tooling, architecting end-to-end data pipelines, and keeping full control over my environments, prioritizing simplicity and efficiency.
+I enjoy building custom tooling from start to finish, architecting end-to-end data pipelines, and keeping full control over my environments, prioritizing simplicity and efficiency.
 </p>
 
 <hr>
@@ -54,20 +54,20 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
   <!-- Lex Criteria Project -->
   <p align="center">
     <b>Software Developer – Lex Criteria Project</b><br>
-    Faculty of Law & Faculty of Engineering, Alberto Hurtado University<br>
+    Faculties of Law & Engineering, Alberto Hurtado University<br>
     <i>September 2026 – Present · Hybrid</i><br><br>
-    Developing <i>Lex Criteria: National Digital Baremo for Child Support Calculation</i>, an automated platform designed to standardize child support determinations through objective criteria and auditable legal reporting.
+    Developing <i>Lex Criteria: National Digital Baremo for Child Support Calculation</i>, an automated technological platform designed to standardize child support determinations through objective criteria and auditable legal reporting.
   </p>
 
   <hr width="100%">
 
   <!-- INES I+D Music Heritage -->
   <p align="center">
-    <b>Full Stack Developer & AI Personal Técnico (INES I+D)</b><br>
+    <b>Full Stack Developer (INES I+D)</b><br>
     Faculty of Philosophy and Humanities, Alberto Hurtado University<br>
     <i>September 2025 – Present · Hybrid</i><br><br>
-    Architecting and deploying a relational intelligent system for the digital preservation and diffusion of Chilean classical music. Implementing LLM integration and multimodal OCR extraction pipelines (Gemini / Mistral / Chandra) to structure synthetic archival text into relational databases.<br>
-    <i>Focus areas: Artificial Intelligence, Multimodal Pipelines & Big Data</i>
+    Architecting and deploying a relational intelligent system for the digital preservation and diffusion of Chilean classical music. Implementing LLM integrations and multimodal OCR extraction pipelines (Gemini / Mistral / Chandra) to structure synthetic archival text into a heritage relational database.<br>
+    <i>Focus areas: Artificial Intelligence & Big Data</i>
   </p>
 
   <hr width="100%">
@@ -77,8 +77,8 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
     <b>Teaching Assistant (Ayudante de Cátedra)</b><br>
     Alberto Hurtado University<br>
     <i>March 2026 – Present · On-site</i><br><br>
-    • <b>Intro to Computer Science & Digital Environments</b> (Faculty of Education, <i>Sept 2026 – Present</i>): Teaching computational thinking and low-code/high-code programming (Python / MIT App Inventor) for mathematics education majors.<br>
-    • <b>Fundamentals of Programming & Fundamentals of Data Science</b> (Faculty of Engineering, <i>Mar 2026 – Aug 2026</i>): Facilitated laboratory sessions on Python OOP, scientific data visualization, and applied Machine Learning.
+    • <b>Intro to Computer Science & Digital Environments</b> (Faculty of Education / Math Pedagogy, <i>Sept 2026 – Present</i>): Teaching computational thinking and low-code/high-code programming (Python / MIT App Inventor) for mathematics education majors.<br>
+    • <b>Fundamentals of Programming & Fundamentals of Data Science</b> (Faculty of Engineering, <i>Mar 2026 – Aug 2026</i>): Facilitated laboratory sessions on Python OOP, computational thinking through abstraction, data processing, and applied Machine Learning to draw evidence-based conclusions.
   </p>
 
   <hr width="100%">
@@ -88,7 +88,7 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
     <b>Research Assistant</b><br>
     Faculty of Engineering, Alberto Hurtado University<br>
     <i>June 2025 – July 2025 · Hybrid</i><br><br>
-    Applied research on large language models, focusing on instruction tuning and fine-tuning techniques applied to Llama 3.1-8B.
+    Applied research and fine-tuning of open-source large language models (Llama 3.1-8B) focused on interculturality. Implemented a RAG (Retrieval-Augmented Generation) agent trained specifically on the contents of the Decree 21.
   </p>
 </details>
 
@@ -121,4 +121,4 @@ I enjoy building custom tooling, architecting end-to-end data pipelines, and kee
 
 <hr>
 
-<p align="center"><i>Last edited: September 2026</i></p>
+<p align="center"><i>Last edited: October 2026</i></p>
